@@ -1,5 +1,9 @@
 package DynamicProgramming;
 
+/**
+ * leetcode 第32题
+ * 最长有效括号
+ */
 class LongestValidParentheses {
     int result = 0;
     int[][] sav;
