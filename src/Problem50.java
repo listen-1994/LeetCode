@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+
 /**
  * LeetCode 第50题 pow
  * 数学，二分查找
@@ -25,6 +27,7 @@ public class Problem50 {
             }
         }
     }
+
 
     public static void main(String[] args) {
         Problem50 problem50 = new Problem50();
