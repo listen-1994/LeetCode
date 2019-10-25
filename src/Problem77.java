@@ -5,7 +5,7 @@ import java.util.List;
  * LeetCode 第77题 组合
  * 递归问题
  */
-public class Problem76 {
+public class Problem77 {
 
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> result = new LinkedList<>();
@@ -35,7 +35,7 @@ public class Problem76 {
     }
 
     public static void main(String[] args) {
-        Problem76 problem76 = new Problem76();
-        System.out.println(problem76.combine(4,2));
+        Problem77 problem77 = new Problem77();
+        System.out.println(problem77.combine(4,2));
     }
 }
