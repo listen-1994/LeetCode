@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Problem73.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Problem73.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Problem75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Problem75.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,17 +17,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem82.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="1062">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem83.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem83.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem86.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="176">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -79,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/LinkedList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Problem82.java" />
         <option value="$PROJECT_DIR$/src/Problem83.java" />
+        <option value="$PROJECT_DIR$/src/Problem86.java" />
       </list>
     </option>
   </component>
@@ -97,6 +101,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,13 +118,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571981809672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572240901866" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -161,18 +165,19 @@
       <updated>1571730667362</updated>
       <workItem from="1571730670184" duration="3071000" />
       <workItem from="1571797654834" duration="12380000" />
-      <workItem from="1571981169650" duration="640000" />
+      <workItem from="1571981169650" duration="2441000" />
+      <workItem from="1572145523828" duration="2294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16091000" />
+    <option name="totallyTimeSpent" value="20186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,8 +226,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Problem82.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="1062">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -246,8 +251,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem83.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem86.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
