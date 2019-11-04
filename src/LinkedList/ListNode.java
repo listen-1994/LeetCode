@@ -20,4 +20,15 @@ public class ListNode {
         }
         System.out.println(point.val);
     }
+
+    public static ListNode createListNode(Integer... integers) {
+        ListNode first = new ListNode(0);
+        ListNode point = first;
+        for (Integer integer : integers) {
+            point.next = new ListNode(integer);
+            point = point.next;
+        }
+        return first.next;
+    }
+
 }
