@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem76.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem99">
-    <configuration name="Problem89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem89" />
+  <component name="RunManager" selected="Application.Problem76">
+    <configuration name="Problem76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem76" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem76" />
         <item itemvalue="Application.Problem99" />
         <item itemvalue="Application.Problem93" />
         <item itemvalue="Application.Problem92" />
         <item itemvalue="Application.Problem90" />
-        <item itemvalue="Application.Problem89" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +120,12 @@
       <workItem from="1572931894337" duration="2876000" />
       <workItem from="1573017740797" duration="1196000" />
       <workItem from="1573104832296" duration="672000" />
-      <workItem from="1573301500899" duration="3266000" />
+      <workItem from="1573301500899" duration="3829000" />
+      <workItem from="1573306718058" duration="326000" />
+      <workItem from="1573308077771" duration="2508000" />
+      <workItem from="1573355314404" duration="710000" />
+      <workItem from="1573356905208" duration="4121000" />
+      <workItem from="1573361336313" duration="15905000" />
     </task>
     <task id="LOCAL-00001" summary="【86题】分隔链表">
       <created>1572240951872</created>
@@ -163,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573018704359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="【99题】">
+      <created>1573304956258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573304956258</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +187,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -187,7 +202,8 @@
     <MESSAGE value="【90题】子集II" />
     <MESSAGE value="【92题】反转链表" />
     <MESSAGE value="【93,94题】" />
-    <option name="LAST_COMMIT_MESSAGE" value="【93,94题】" />
+    <MESSAGE value="【99题】" />
+    <option name="LAST_COMMIT_MESSAGE" value="【99题】" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,8 +235,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Problem99.java</url>
-          <line>20</line>
+          <line>55</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem76.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
