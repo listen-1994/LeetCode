@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem68.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem76.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +46,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem76">
-    <configuration name="Problem76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem76" />
+  <component name="RunManager" selected="Application.Problem68">
+    <configuration name="Problem68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem68" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem90" />
+    <configuration name="Problem76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem76" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem68" />
         <item itemvalue="Application.Problem76" />
         <item itemvalue="Application.Problem99" />
         <item itemvalue="Application.Problem93" />
         <item itemvalue="Application.Problem92" />
-        <item itemvalue="Application.Problem90" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +123,9 @@
       <workItem from="1573308077771" duration="2508000" />
       <workItem from="1573355314404" duration="710000" />
       <workItem from="1573356905208" duration="4121000" />
-      <workItem from="1573361336313" duration="15905000" />
+      <workItem from="1573361336313" duration="18056000" />
+      <workItem from="1573919512449" duration="606000" />
+      <workItem from="1573950314848" duration="3060000" />
     </task>
     <task id="LOCAL-00001" summary="【86题】分隔链表">
       <created>1572240951872</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573304956258</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="【99题】">
+      <created>1573648566510</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573648566510</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +249,11 @@
           <url>file://$PROJECT_DIR$/src/Problem76.java</url>
           <line>59</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem68.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
