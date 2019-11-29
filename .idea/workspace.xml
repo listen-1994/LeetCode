@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem68.java" afterDir="false" />
+    <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="【99题】">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem126.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +28,17 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573105731944" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Company/jingxuan-goods-service/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -46,7 +53,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem68">
+  <component name="RunManager" selected="Application.Problem126">
+    <configuration name="Problem126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem126" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem68" />
       <module name="LeetCode" />
@@ -56,13 +70,6 @@
     </configuration>
     <configuration name="Problem76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem76" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem92" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem126" />
         <item itemvalue="Application.Problem68" />
         <item itemvalue="Application.Problem76" />
         <item itemvalue="Application.Problem99" />
         <item itemvalue="Application.Problem93" />
-        <item itemvalue="Application.Problem92" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +133,25 @@
       <workItem from="1573361336313" duration="18056000" />
       <workItem from="1573919512449" duration="606000" />
       <workItem from="1573950314848" duration="3060000" />
+      <workItem from="1574435452169" duration="754000" />
+      <workItem from="1574689310813" duration="1459000" />
+      <workItem from="1574691011547" duration="337000" />
+      <workItem from="1574691864792" duration="106000" />
+      <workItem from="1574692055885" duration="300000" />
+      <workItem from="1574692884438" duration="553000" />
+      <workItem from="1574693451160" duration="219000" />
+      <workItem from="1574693683349" duration="155000" />
+      <workItem from="1574693911188" duration="3000" />
+      <workItem from="1574694182060" duration="192000" />
+      <workItem from="1574694434054" duration="5868000" />
+      <workItem from="1574730236361" duration="372000" />
+      <workItem from="1574730699143" duration="433000" />
+      <workItem from="1574732106941" duration="31000" />
+      <workItem from="1574732529264" duration="55000" />
+      <workItem from="1574734191750" duration="1264000" />
+      <workItem from="1574736337434" duration="1137000" />
+      <workItem from="1574746645193" duration="674000" />
+      <workItem from="1574918751394" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="【86题】分隔链表">
       <created>1572240951872</created>
@@ -250,28 +276,7 @@
           <line>59</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Problem68.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
