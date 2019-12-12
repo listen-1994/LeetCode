@@ -21,24 +21,7 @@ public class Problem126 {
         }
         for (String str : wordList) {
             if (checkString(beginWord, str, save)) {
-                if (str.equals(endWord)) {
-                    subResult.clear();
-                    List<String> sub = new LinkedList<>();
-                    sub.add(beginWord);
-                    sub.add(endWord);
-                    subResult.add(sub);
-                    return subResult;
-                }
-                List<String> wordList2 = new LinkedList<>(wordList);
-                wordList2.remove(beginWord);
-                List<List<String>> sub = core(str, endWord, wordList2, save);
-                if (sub.size() != 0) {
-                    if (num > sub.get(0).size()) {
-                        subResult.clear();
-                        subResult.addAll(sub);
-                        num = sub.get(0).size();
-                    } else if (num == sub.get(0).size()) {
-                        subResult.addAll(sub);
+                if (str.equals(endWord)) { subResult.clear(); List<String> sub = new LinkedList<>(); sub.add(beginWord); sub.add(endWord); subResult.add(sub); return subResult; } List<String> wordList2 = new LinkedList<>(wordList); wordList2.remove(beginWord); List<List<String>> sub = core(str, endWord, wordList2, save); if (sub.size() != 0) { if (num > sub.get(0).size()) { subResult.clear(); subResult.addAll(sub); num = sub.get(0).size(); } else if (num == sub.get(0).size()) { subResult.addAll(sub);
                     }
                 }
             }
@@ -133,9 +116,8 @@ public class Problem126 {
         }
         List<List<String>> result = new ArrayList<>();
         Map<String, List<String>> graph = new HashMap<>();
-        wordList = new ArrayList<>(wordList);
-        wordList.add(beginWord);
-
+        wordSet.add(beginWord);
+        wordList = new ArrayList<>(wordSet);
         for (int i = 0; i < wordList.size(); i++) {
             for (int j = i + 1; j < wordList.size(); j++) {
                 if (checkString(wordList.get(i), wordList.get(j))) {
