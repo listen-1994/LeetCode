@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86fe7c5-23ac-4cbb-9d04-f23026ec1c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem1002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem188.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.typerenderers" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,25 +53,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem1002">
+  <component name="RunManager" selected="Application.Problem212">
     <configuration name="Problem1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Problem1002" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem126" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem132" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,27 +70,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem68" />
+    <configuration name="Problem188" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem188" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Problem212" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem68" />
-      <item itemvalue="Application.Problem126" />
-      <item itemvalue="Application.Problem132" />
       <item itemvalue="Application.Problem149" />
       <item itemvalue="Application.Problem1002" />
+      <item itemvalue="Application.Problem188" />
+      <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.Problem212" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem212" />
+        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.Problem188" />
         <item itemvalue="Application.Problem1002" />
         <item itemvalue="Application.Problem149" />
-        <item itemvalue="Application.Problem132" />
-        <item itemvalue="Application.Problem126" />
-        <item itemvalue="Application.Problem68" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +186,12 @@
       <workItem from="1576159028812" duration="1889000" />
       <workItem from="1576162122635" duration="136000" />
       <workItem from="1576508166640" duration="1054000" />
+      <workItem from="1576595429385" duration="2397000" />
+      <workItem from="1576598503889" duration="5772000" />
+      <workItem from="1576672935174" duration="4068000" />
+      <workItem from="1576755313770" duration="7135000" />
+      <workItem from="1576764312108" duration="1643000" />
+      <workItem from="1576935310512" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="【86题】分隔链表">
       <created>1572240951872</created>
