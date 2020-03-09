@@ -10,11 +10,16 @@ public class Problem233 {
     Integer result = 0;
     Integer length;
     String nString;
+    Integer[][] dp;
+    Boolean[][] check;
 
     public int countDigitOne(int n) {
         nString = String.valueOf(n);
         length = nString.length();
-
+        dp = new Integer[length][2];
+        check = new Boolean[length][2];
+        dfs(0, true, true);
+        return result;
     }
 
     /**
