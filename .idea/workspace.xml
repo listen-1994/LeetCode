@@ -28,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problem233">
     <configuration name="Problem113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem113" />
       <module name="LeetCode" />
@@ -49,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem233" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem233" />
         <item itemvalue="Application.Problem113" />
       </list>
     </recent_temporary>
@@ -67,6 +76,7 @@
       <updated>1583661157154</updated>
       <workItem from="1583661158582" duration="1188000" />
       <workItem from="1583753109472" duration="2621000" />
+      <workItem from="1583818856387" duration="6914000" />
     </task>
     <task id="LOCAL-00001" summary="233">
       <created>1583766004873</created>
