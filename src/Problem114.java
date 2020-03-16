@@ -1,10 +1,7 @@
 import LinkedList.TreeNode;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 public class Problem114 {
+    private TreeNode treeNode;
 /*    public void flatten(TreeNode root) {
         List<TreeNode> nodeList = new ArrayList<>();
         dfs(root, nodeList);
