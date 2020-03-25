@@ -10,10 +10,20 @@ public class Problem282 {
     }
 
     private Boolean checkString(String s, int target) {
-        
+        return calculateString(s).equals(target);
     }
 
     private Integer calculateString(String s) {
+        int lastIndex = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (checkOperator(s.charAt(i)) || i == s.length() - 1) {
+                Integer num = string2Integer(s.substring(lastIndex, i));
+            }
+        }
+    }
+
+    private Boolean checkOperator(Character character) {
+        return character == '+' || character == '-' || character == '*';
     }
 
 }
