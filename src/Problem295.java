@@ -103,7 +103,7 @@ public class Problem295 {
         }
 
         public TreeNode insertNum(int num, TreeNode root) {
-            if (num <= root.val) {
+            if (num <= root.val1) {
                 if (null == root.left) {
                     root.left = new TreeNode(num);
                 } else {
