@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b4f3f2-5983-4eaa-a874-41428f486175" name="Default Changelist" comment="">
+    <list default="true" id="62b4f3f2-5983-4eaa-a874-41428f486175" name="Default Changelist" comment="282">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem282.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem282.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem295.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YqDJJqbKnbzQPPWMWbnZaUSJXn" />
   <component name="ProjectLevelVcsManager">
@@ -42,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem239">
+  <component name="RunManager" selected="Application.Problem295">
     <configuration name="Problem113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem113" />
       <module name="LeetCode" />
@@ -64,8 +70,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem282" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem282" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem295" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem295" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem295" />
+        <item itemvalue="Application.Problem282" />
         <item itemvalue="Application.Problem239" />
         <item itemvalue="Application.Problem233" />
         <item itemvalue="Application.Problem113" />
@@ -87,7 +109,11 @@
       <workItem from="1583818856387" duration="9467000" />
       <workItem from="1583894017973" duration="15000" />
       <workItem from="1583894323064" duration="11122000" />
-      <workItem from="1585129758764" duration="5331000" />
+      <workItem from="1585129758764" duration="11939000" />
+      <workItem from="1585275990998" duration="3882000" />
+      <workItem from="1585909580054" duration="2035000" />
+      <workItem from="1586074251768" duration="4475000" />
+      <workItem from="1586270063256" duration="2302000" />
     </task>
     <task id="LOCAL-00001" summary="233">
       <created>1583766004873</created>
@@ -117,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585134656525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="282">
+      <created>1585135608654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585135608654</updated>
+    </task>
+    <task id="LOCAL-00006" summary="282">
+      <created>1585314344297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585314344297</updated>
+    </task>
+    <task id="LOCAL-00007" summary="282">
+      <created>1585911599136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585911599136</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
