@@ -112,11 +112,11 @@ public class Problem295 {
             oddFlag = !oddFlag;
         }
 
-        public TreeNode findLeftMax(TreeNode root) {
-            if (root.right != null) {
-                return findLeftMax(root.right);
+        public TreeNode findLeftMax(TreeNode node) {
+            if (node.right != null) {
+                return findLeftMax(node.right);
             }
-            return root;
+            return node;
         }
 
         public TreeNode findRightMin(TreeNode root) {
